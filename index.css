@@ -415,3 +415,103 @@ header .d-flex {
 .section4__cards:hover{
     box-shadow: rgba(240, 46, 170, 0.4) 5px 5px, rgba(240, 46, 170, 0.3) 10px 10px, rgba(240, 46, 170, 0.2) 15px 15px, rgba(240, 46, 170, 0.1) 20px 20px, rgba(240, 46, 170, 0.05) 25px 25px;
 }
+
+.section-bottom-block {
+    background-color: #F5F5F5;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-family: "Vollkorn" ,"Montserrat" , "Oswald" , "Arial" , sans-serif;
+    font-weight: 400;
+    display: block;
+    margin-top: 100px;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    width: 100%;
+    max-width: 1000px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+.main-section-bottom-vergul {
+    width: 62px;
+    height: 62px;
+    margin-top: 69px;
+    margin-bottom: 36px;
+}
+
+.main-section-bottom-block {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-right: 40px;
+    padding-bottom: 98px;
+    margin-top: 20px;
+}
+
+.main-section-right {
+    margin-right: 54px;
+    margin-top: -42px;
+}
+
+.p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0;
+    margin-inline-end: 0;
+}
+
+.main-section-bottom-heading {
+    font-size: 26px;
+    line-height: 33px;
+}
+
+.main-section-bottom-height {
+    border: 1px solid #ebebeb;
+    background-color: #ebebeb;
+    width: 1px;
+    height: 210px;
+    margin-top: 0;
+    padding-bottom: 15px;
+}
+.main-section-left {
+    margin-left: 70px;
+    margin-top: -42px;
+}
+.main-section-bottom-name {
+    text-transform: uppercase;
+    font-family: "Montserrat" , "Oswald" , "Arial" , sans-serif;
+    color: rgba(171, 171, 171, 1);
+    font-size: 14px;
+    line-height: 20px;
+    margin-top: 5px;
+    margin-bottom: 0;
+}
+
+.h4 {
+    display: block;
+    margin-block-start: 1.33em;
+    margin-block-end: 1.33em;
+    margin-inline-start: 0;
+    margin-inline-end: 0;
+    font-weight: bold;
+}
+
+.main-section-bottom-img{
+    width: 64px;
+    height: 64px;
+}
+
+
+
+
